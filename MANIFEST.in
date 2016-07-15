@@ -1,0 +1,4 @@
+include LICENSE
+include README.rst
+recursive-include env_bar/static *
+recursive-include env_bar/templates *

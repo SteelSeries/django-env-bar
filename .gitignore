@@ -1,0 +1,10 @@
+*.pyc
+*.DS_Store
+*~
+build
+.coverage
+dist
+django_env_bar.egg-info
+docs/_build
+htmlcov
+.tox

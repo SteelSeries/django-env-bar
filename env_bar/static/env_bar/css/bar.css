@@ -1,0 +1,21 @@
+.envbar {
+  color: white;
+  font-weight: bold;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  text-transform: uppercase;
+  text-align: center;
+
+  background: #EC644B;
+  background: repeating-linear-gradient(45deg, #B41909, #B41909 10px, #CE3323 10px, #CE3323 20px );
+  opacity: 0.8;
+
+  padding: 7px;
+  overflow: hidden;
+
+  position: fixed;
+  z-index: 999999;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}

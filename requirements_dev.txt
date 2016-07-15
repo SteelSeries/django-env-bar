@@ -1,0 +1,17 @@
+# Env bar itself
+-e .
+
+# Runtime dependencies
+Django
+
+# Testing
+coverage
+isort
+flake8
+tox
+
+# Documentation
+Sphinx
+
+# Other tools
+wheel
