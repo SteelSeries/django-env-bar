@@ -7,9 +7,9 @@ Show the current environment on every page
 """
 
 __title__ = 'env_bar'
-__version__ = '0.0.1'
+__version__ = '0.0.2'
 __author__ = 'Michael Pedersen'
 __license__ = 'MIT'
-__copyright__ = 'Copyright 2016 SteelSeries'
+__copyright__ = 'Copyright 2019 SteelSeries'
 
 default_app_config = 'env_bar.apps.EnvBarConfig'

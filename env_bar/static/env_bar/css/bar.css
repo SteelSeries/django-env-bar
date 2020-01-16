@@ -7,10 +7,8 @@
   text-align: center;
 
   background: #EC644B;
-  background: repeating-linear-gradient(45deg, #B41909, #B41909 10px, #CE3323 10px, #CE3323 20px );
-  opacity: 0.8;
+  background: repeating-linear-gradient(45deg, rgba(180, 25, 9, 0.8), rgba(180, 25, 9, 0.8) 10px, rgba(206, 51, 35, 0.8) 10px, rgba(206, 51, 35, 0.8) 20px );
 
-  padding: 7px;
   overflow: hidden;
 
   position: fixed;
@@ -18,4 +16,11 @@
   bottom: 0;
   left: 0;
   width: 100%;
+}
+
+.envbar__env {
+  display: inline-block;
+  background: rgb(180, 25, 9);
+  color: #ffe6e6;
+  padding: 5px 20px;
 }
