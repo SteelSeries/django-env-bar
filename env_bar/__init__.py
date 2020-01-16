@@ -7,7 +7,7 @@ Show the current environment on every page
 """
 
 __title__ = 'env_bar'
-__version__ = '0.0.3'
+__version__ = '0.0.4'
 __author__ = 'Michael Pedersen'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2019 SteelSeries'
